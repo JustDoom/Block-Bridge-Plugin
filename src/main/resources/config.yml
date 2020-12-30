@@ -1,0 +1,5 @@
+worlds:
+  game-1:
+    world-name: 'game-1'
+    max-players: 10
+    min-players: 2

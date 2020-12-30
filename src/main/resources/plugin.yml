@@ -1,0 +1,8 @@
+name: BlockBridge
+version: ${project.version}
+main: com.justdoom.blockbridge.Blockbridge
+api-version: 1.16
+commands:
+  joinblockbridge:
+
+  blockbridgereload:
